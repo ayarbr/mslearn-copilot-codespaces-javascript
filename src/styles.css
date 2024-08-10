@@ -122,10 +122,9 @@ a:hover {
 }
 
 img.socialIcon:hover {
-  animation: bounce 0.5s infinite;
+  animation: bounce 0.5s;
   animation-iteration-count: infinite;
-  height: 30px;
-  width: 30px;
+ 
 }
 /* add an amazing animation to the social icons */ 
 @keyframes bounce {
